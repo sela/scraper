@@ -1,0 +1,19 @@
+{
+  "name": "sela/crawler",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sela Yair",
+      "email": "sela.yair@yahoo.com"
+    }
+  ],
+  "require": {
+    "fabpot/goutte": "^3.1",
+    "symfony/serializer": "v2.7.5",
+    "phpunit/phpunit": "5.0.6",
+    "symfony/property-access": "v2.7.5",
+    "symfony/class-loader": "v2.7.5"
+  }
+}
